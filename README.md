@@ -8,3 +8,5 @@
 1. 网址检查
 	1. 检查网址 http://liucaihong.com/index.html
 	1. 请求编入索引
+1. 网站内容更新
+	1. 添加how-it-works页面，并更新站点地图提交给google
